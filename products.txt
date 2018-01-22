@@ -1,0 +1,7 @@
+id,name
+A,Arroz
+B,Bolso
+C,Computadora
+D,Detergente
+E,EBook
+F,Fideos

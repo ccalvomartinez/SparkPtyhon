@@ -1,0 +1,16 @@
+id,name,sex
+1,Juan,M
+2,Rosa,F
+3,Alexandra,F
+4,Raul,M
+5,Jose,M
+6,Josefa,F
+7,Maria,F
+8,Eduardo,M
+9,Pedro,M
+10,Ana,F
+11,Patricia,F
+12,Ignacio,M
+13,Ramon,M
+14,Adela,F
+15,Carmen,F
